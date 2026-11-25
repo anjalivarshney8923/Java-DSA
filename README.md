@@ -9,15 +9,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anjalivarshney8923/Java-DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anjalivarshney8923/Java-DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/anjalivarshney8923/Java-DSA/tree/master/0283-move-zeroes) |
+| [3663-find-the-least-frequent-digit](https://github.com/anjalivarshney8923/Java-DSA/tree/master/3663-find-the-least-frequent-digit) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anjalivarshney8923/Java-DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/anjalivarshney8923/Java-DSA/tree/master/0169-majority-element) |
+| [3663-find-the-least-frequent-digit](https://github.com/anjalivarshney8923/Java-DSA/tree/master/3663-find-the-least-frequent-digit) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anjalivarshney8923/Java-DSA/tree/master/0009-palindrome-number) |
+| [3663-find-the-least-frequent-digit](https://github.com/anjalivarshney8923/Java-DSA/tree/master/3663-find-the-least-frequent-digit) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anjalivarshney8923/Java-DSA/tree/master/0169-majority-element) |
+| [3663-find-the-least-frequent-digit](https://github.com/anjalivarshney8923/Java-DSA/tree/master/3663-find-the-least-frequent-digit) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
